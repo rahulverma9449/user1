@@ -3,7 +3,7 @@ print("python \"future plan\"")
 print("i am working ")
 print("python \"future plan\"")
 print("i am working ")
-
+print("there are lots of fruits")
 
 
 
